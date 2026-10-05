@@ -1,0 +1,3 @@
+Hello, World!
+Hi everyoneThis is a test file java.
+and so on java .
